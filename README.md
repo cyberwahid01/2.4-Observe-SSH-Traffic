@@ -3,7 +3,7 @@
 </p>
 
 <h1>Microsoft Azure Compute and Networking 🪟 - Observe SSH Traffic</h1>
-Next in this section of using Wireshark, I use the SSH (Secure Shell) Protocol to connect to the Linux VM from within the Windows VM using Powershell. <br />
+Next in this section of using Wireshark, I use the SSH (Secure Shell) Protocol to connect to the Linux VM from within the Windows VM using Powershell. <br /> (Link Back to Main Project Contents Page is at the Bottom of this Repo)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -41,3 +41,4 @@ Next in this section of using Wireshark, I use the SSH (Secure Shell) Protocol t
 <img src="https://imgur.com/jNvY1ra.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+LINK BACK TO THE MAIN PROJECT CONTENTS PAGE - https://github.com/cyberwahid01/Azure-Compute-and-Networking
